@@ -1,7 +1,9 @@
 
 ![croc tooth banner](https://github.com/ryder203/croc_tooth/blob/main/res/promo/header.png?raw=true)
 
-# For Windows only!
+# For Windows only
+
+Croc tooth is for Microsoft Windows OS only, written in Python and compiled with AutoPyToExe.
 
 # Screenshot
 
