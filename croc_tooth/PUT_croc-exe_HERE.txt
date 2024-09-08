@@ -1,7 +1,0 @@
-
-	1.) Download croc here
-		https://github.com/schollz/croc/releases
-		
-	2.) Put croc.exe next to croc_tooth.exe
-	
-	3.) Use the GUI to send and receive files
