@@ -46,7 +46,10 @@ https://github.com/schollz/croc/releases
 
 Both users need to keep the "croc" tool active throughout the entire process to ensure a successful file transfer.
 
+# Stats
 
+![GitHub all releases](https://img.shields.io/github/downloads/ryder203/croc_tooth/total?label=Total%20Downloads&style=flat)
+![GitHub release (latest by date)](https://img.shields.io/github/downloads/ryder203/croc_tooth/latest/total?label=Latest%20Release%20Downloads&style=flat)
 
 # License
 
