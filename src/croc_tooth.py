@@ -21,13 +21,16 @@ def send_file():
             messagebox.showerror("Error", f"Failed to send the file: {e}")
 
 def receive_file():
-    """Retrieve the receive code from the input field and execute the 'croc receive' command."""
+    """Retrieve the receive code from the input field and execute the 'croc receive' command with '--yes' flag."""
     receive_code = receive_code_entry.get().strip()
     receive_code = re.sub(r'\s+', ' ', receive_code)  # Normalize spaces
     
     if receive_code:
+        # Ensure the receive code starts with 'croc --yes'
         if not receive_code.startswith('croc'):
-            receive_code = f'croc {receive_code}'
+            receive_code = f'croc --yes {receive_code}'
+        else:
+            receive_code = receive_code.replace('croc', 'croc --yes', 1)
         
         try:
             command = f'start cmd /k {receive_code}'
