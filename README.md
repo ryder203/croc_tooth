@@ -10,6 +10,7 @@ Croc tooth is for Microsoft Windows OS only, written in Python and compiled with
 ![Demo Preview](https://github.com/ryder203/croc_tooth/blob/main/res/promo/screenshot_croc_tooth.png?raw=true)
 
 Croc tooth is a graphical user interface (GUI) for the "croc" command-line tool,<br>designed to simplify secure file transfers between devices.<br>
+It was created to have a GUI to do the most basic thing croc does - sending a file or receiving it, nothing more.<br>
 Overall, the app makes using the "croc" tool more convenient by <br>providing a visual interface for secure file sharing.<br><br>
 
 # Installation
