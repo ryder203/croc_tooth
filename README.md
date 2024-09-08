@@ -49,6 +49,7 @@ Both users need to keep the "croc" tool active throughout the entire process to 
 # Stats
 
 ![GitHub all releases](https://img.shields.io/github/downloads/ryder203/croc_tooth/total?label=Total%20Downloads&style=flat)
+<br>
 ![GitHub release (latest by date)](https://img.shields.io/github/downloads/ryder203/croc_tooth/latest/total?label=Latest%20Release%20Downloads&style=flat)
 
 # License
