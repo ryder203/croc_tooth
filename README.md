@@ -1,7 +1,9 @@
 
 ![croc tooth banner](https://github.com/ryder203/croc_tooth/blob/main/res/promo/header.png?raw=true)
 
-# Quick Start Demo
+# For Windows only!
+
+# Screenshot
 
 ![Demo Preview](https://github.com/ryder203/croc_tooth/blob/main/res/promo/screenshot_croc_tooth.png?raw=true)
 
