@@ -48,8 +48,7 @@ Both users need to keep the "croc" tool active throughout the entire process to 
 
 # Stats
 
-[![GitHub all releases](https://img.shields.io/github/downloads/ryder203/croc_tooth/total?label=Total%20Downloads&style=flat)](https://img.shields.io/github/downloads/ryder203/croc_tooth/total?style=flat&label=Downloads%20all%20releases&labelColor=%2366bb6a
-)
+![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/ryder203/croc_tooth/total?style=flat&label=Downloads%20all%20releases&labelColor=%2366bb6a)
 <br>
 ![GitHub Downloads (all assets, latest release)](https://img.shields.io/github/downloads/ryder203/croc_tooth/latest/total?style=flat&label=Downloads%20latest%20release&labelColor=%2326a69a)
 
