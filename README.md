@@ -3,7 +3,8 @@
 
 # For Windows only
 
-Croc tooth is for Microsoft Windows OS only, written in Python and compiled with AutoPyToExe.
+Croc tooth is for Microsoft Windows OS only, written in Python and compiled with AutoPyToExe.<br>
+Croc itself is available for various OS.
 
 # Screenshot
 
