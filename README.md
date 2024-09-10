@@ -3,13 +3,15 @@
 
 # For Windows only
 
-Croc tooth is for Microsoft Windows OS only, written in Python and compiled with AutoPyToExe.
+Croc tooth is for Microsoft Windows OS only, written in Python and compiled with AutoPyToExe.<br>
+Croc itself is available for various OS.
 
 # Screenshot
 
 ![Demo Preview](https://github.com/ryder203/croc_tooth/blob/main/res/promo/screenshot_croc_tooth.png?raw=true)
 
 Croc tooth is a graphical user interface (GUI) for the "croc" command-line tool,<br>designed to simplify secure file transfers between devices.<br>
+It was created to have a GUI to do the most basic thing croc does - sending a file or receiving it, nothing more.<br>
 Overall, the app makes using the "croc" tool more convenient by <br>providing a visual interface for secure file sharing.<br><br>
 
 # Installation
@@ -45,7 +47,11 @@ https://github.com/schollz/croc/releases
 
 Both users need to keep the "croc" tool active throughout the entire process to ensure a successful file transfer.
 
+# Stats
 
+![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/ryder203/croc_tooth/total?style=flat&label=Downloads%20all%20releases&labelColor=%2366bb6a)
+<br>
+![GitHub Downloads (all assets, latest release)](https://img.shields.io/github/downloads/ryder203/croc_tooth/latest/total?style=flat&label=Downloads%20latest%20release&labelColor=%2326a69a)
 
 # License
 
