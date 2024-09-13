@@ -24,20 +24,20 @@ https://github.com/schollz/croc/releases
 
 # Graphical user interface languages
 
-English (en)
-Chinese (Simplified) (zh)
-Hindi (hi)
-Spanish (es)
-French (fr)
-Arabic (ar)
-Bengali (bn)
-Russian (ru)
-Portuguese (pt)
-Indonesian (id)
-Urdu (ur)
-Japanese (ja)
-German (de)
-Korean (ko)
+- English (en)
+- Chinese (Simplified) (zh)
+- Hindi (hi)
+- Spanish (es)
+- French (fr)
+- Arabic (ar)
+- Bengali (bn)
+- Russian (ru)
+- Portuguese (pt)
+- Indonesian (id)
+- Urdu (ur)
+- Japanese (ja)
+- German (de)
+- Korean (ko)
 
 # Usage
 
