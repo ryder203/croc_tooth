@@ -2,8 +2,8 @@
 
 VSVersionInfo(
   ffi=FixedFileInfo(
-    filevers=(2, 0, 0, 0),  # File version: 2.0.0.0
-    prodvers=(2, 0, 0, 0),  # Product version: 2.0.0.0
+    filevers=(2, 1, 0, 0),  # File version: 2.1.0.0
+    prodvers=(2, 1, 0, 0),  # Product version: 2.1.0.0
     mask=0x3f,              # File attribute mask
     flags=0x0,              # File flags
     OS=0x40004,             # Operating system ID
@@ -18,13 +18,13 @@ VSVersionInfo(
         u'040904B0',  # Language and code page
         [
         StringStruct(u'CompanyName', u'203X'),
-        StringStruct(u'FileDescription', u'croc tooth v2.0 - File Transfer Tool GUI'),
-        StringStruct(u'FileVersion', u'2.0.0.0'),
+        StringStruct(u'FileDescription', u'croc tooth v2.1 - File Transfer Tool GUI'),
+        StringStruct(u'FileVersion', u'2.1.0.0'),
         StringStruct(u'InternalName', u'croc tooth'),
         StringStruct(u'LegalCopyright', u'(C) 2024 203X. All rights reserved.'),
         StringStruct(u'OriginalFilename', u'croc_tooth.exe'),
         StringStruct(u'ProductName', u'croc tooth'),
-        StringStruct(u'ProductVersion', u'2.0.0.0'),
+        StringStruct(u'ProductVersion', u'2.1.0.0'),
         StringStruct(u'Author', u't-ryder')
         ]
       )
