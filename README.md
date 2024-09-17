@@ -16,12 +16,28 @@ Overall, the app makes using the "croc" tool more convenient by <br>providing a 
 
 # Installation
 
-None needed. Just copy croc_tooth.exe next to latest croc.exe.<br>
+Not needed. Just copy croc_tooth.exe next to latest croc.exe.<br>
 Croc can be found here:<br>
 https://github.com/schollz/croc/releases
 <br>
 <br>
 
+# Graphical user interface languages
+
+- English (en)
+- Chinese (Simplified) (zh)
+- Hindi (hi)
+- Spanish (es)
+- French (fr)
+- Arabic (ar)
+- Bengali (bn)
+- Russian (ru)
+- Portuguese (pt)
+- Indonesian (id)
+- Urdu (ur)
+- Japanese (ja)
+- German (de)
+- Korean (ko)
 
 # Usage
 
