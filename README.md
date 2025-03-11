@@ -73,7 +73,7 @@ Both users need to keep the "croc" tool active throughout the entire process to 
 
 MIT License
 
-Copyright (c) 2024 t-ryder
+Copyright (c) 2024 ryder203
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
